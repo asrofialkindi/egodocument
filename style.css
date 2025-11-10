@@ -1,0 +1,20 @@
+body {
+  padding: 40px;
+  background-image: linear-gradient(#e8f0ff 0%, white 52.08%);
+  color: #0e3481;
+  min-height: 100vh;
+}
+
+.gallery-info {
+  text-align: center;
+  display: block;
+  font-size: 12px;
+  opacity: 0.7;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+.header .lead {
+  max-width: 620px;
+  text-align: center;
+}
